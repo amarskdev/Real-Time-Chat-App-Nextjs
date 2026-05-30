@@ -61,7 +61,7 @@ All users see message    ← Zero page refresh, sub-second delivery
 
 ```bash
 # Clone the repository
-git clone https://github.com/amarkumar55/Real-Time-Chat-App-Nextjs
+git clone https://github.com/amarskdev/Real-Time-Chat-App-Nextjs
 cd meta-app
 
 # Install dependencies
@@ -146,7 +146,7 @@ app/
 ## 👤 Author
 
 **Amar Kumar** — Senior Backend Engineer · IBM Certified AI Engineer  
-📌 [LinkedIn](https://www.linkedin.com/in/amarkumar241429017) · 💻 [GitHub](https://github.com/amarkumar55)
+📌 [LinkedIn](https://www.linkedin.com/in/amarskdev) · 💻 [GitHub](https://github.com/amarskdev)
 
 ---
 
